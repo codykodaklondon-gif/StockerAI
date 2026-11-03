@@ -1,0 +1,11 @@
+pandas>=2.2
+numpy>=2.0
+streamlit>=1.40
+plotly>=5.20
+openpyxl>=3.1
+anthropic>=2.0
+openai>=1.50
+python-calamine>=0.3
+scikit-learn>=1.5
+holidays>=0.50
+python-docx>=1.1

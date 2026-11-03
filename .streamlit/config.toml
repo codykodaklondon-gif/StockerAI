@@ -1,0 +1,14 @@
+[server]
+maxUploadSize = 200   # MB per file
+headless = true    # servers; the desktop launchers pass --server.headless false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#C64E35"
+backgroundColor = "#FCFAF5"
+secondaryBackgroundColor = "#F3EEE5"
+textColor = "#493A31"
+font = "sans serif"

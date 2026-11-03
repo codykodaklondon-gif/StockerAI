@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Shop data and private settings: never upload
+data/
+.streamlit/secrets.toml
+
+# Update package and build output
+handoff_v9_update/
+*.zip
+
+# macOS
+.DS_Store
